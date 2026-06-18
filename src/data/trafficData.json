@@ -1,0 +1,341 @@
+{
+  "roads": [
+    {
+      "id": "R001",
+      "name": "MG Road - Brigade Junction",
+      "coordinates": [
+        [12.9752, 77.6042],
+        [12.9768, 77.6099],
+        [12.9779, 77.6143]
+      ],
+      "congestionScore": 87,
+      "congestionLevel": "high",
+      "speed": 12,
+      "vehicleCount": 342,
+      "prediction": {
+        "next15min": 91,
+        "next30min": 85,
+        "next60min": 72
+      },
+      "signalRecommendation": "Extend green phase by 45s on MG Road approach",
+      "alternateRoute": "Use Residency Road via Richmond Circle",
+      "incidents": ["Signal malfunction at Brigade Jn", "Minor accident near Anil Kumble Circle"],
+      "lastUpdated": "2026-06-01T14:10:00Z"
+    },
+    {
+      "id": "R002",
+      "name": "Outer Ring Road - Marathahalli",
+      "coordinates": [
+        [12.9565, 77.7005],
+        [12.9541, 77.6980],
+        [12.9512, 77.6950]
+      ],
+      "congestionScore": 74,
+      "congestionLevel": "high",
+      "speed": 18,
+      "vehicleCount": 510,
+      "prediction": {
+        "next15min": 79,
+        "next30min": 68,
+        "next60min": 55
+      },
+      "signalRecommendation": "Activate dynamic lane for ORR inbound",
+      "alternateRoute": "Sarjapur Road via Bellandur Junction",
+      "incidents": ["Road work near Marathahalli bridge"],
+      "lastUpdated": "2026-06-01T14:10:00Z"
+    },
+    {
+      "id": "R003",
+      "name": "Koramangala - Silk Board",
+      "coordinates": [
+        [12.9279, 77.6271],
+        [12.9233, 77.6310],
+        [12.9185, 77.6365]
+      ],
+      "congestionScore": 92,
+      "congestionLevel": "high",
+      "speed": 8,
+      "vehicleCount": 601,
+      "prediction": {
+        "next15min": 88,
+        "next30min": 80,
+        "next60min": 65
+      },
+      "signalRecommendation": "Implement tidal flow on Koramangala 6th Block road",
+      "alternateRoute": "Hosur Road via Electronic City Flyover",
+      "incidents": ["Heavy vehicle breakdown at Silk Board junction", "Waterlogging near BTM Layout"],
+      "lastUpdated": "2026-06-01T14:10:00Z"
+    },
+    {
+      "id": "R004",
+      "name": "Whitefield - ITPL Road",
+      "coordinates": [
+        [12.9808, 77.7503],
+        [12.9826, 77.7460],
+        [12.9840, 77.7412]
+      ],
+      "congestionScore": 58,
+      "congestionLevel": "moderate",
+      "speed": 28,
+      "vehicleCount": 265,
+      "prediction": {
+        "next15min": 62,
+        "next30min": 55,
+        "next60min": 48
+      },
+      "signalRecommendation": "Standard signal cycle, monitor ITPL gate timings",
+      "alternateRoute": "Varthur Road via Marathahalli",
+      "incidents": [],
+      "lastUpdated": "2026-06-01T14:10:00Z"
+    },
+    {
+      "id": "R005",
+      "name": "Hebbal Flyover - NH44",
+      "coordinates": [
+        [13.0350, 77.5970],
+        [13.0380, 77.5953],
+        [13.0412, 77.5935]
+      ],
+      "congestionScore": 45,
+      "congestionLevel": "moderate",
+      "speed": 35,
+      "vehicleCount": 189,
+      "prediction": {
+        "next15min": 48,
+        "next30min": 42,
+        "next60min": 38
+      },
+      "signalRecommendation": "Optimize merge lanes near Hebbal junction",
+      "alternateRoute": "Bellary Road via Mekhri Circle",
+      "incidents": ["Minor fender-bender cleared"],
+      "lastUpdated": "2026-06-01T14:10:00Z"
+    },
+    {
+      "id": "R006",
+      "name": "Yeshwanthpur - Tumkur Road",
+      "coordinates": [
+        [13.0239, 77.5445],
+        [13.0265, 77.5390],
+        [13.0290, 77.5340]
+      ],
+      "congestionScore": 22,
+      "congestionLevel": "low",
+      "speed": 55,
+      "vehicleCount": 98,
+      "prediction": {
+        "next15min": 25,
+        "next30min": 30,
+        "next60min": 35
+      },
+      "signalRecommendation": "No action required, normal flow",
+      "alternateRoute": "Chord Road via Rajajinagar",
+      "incidents": [],
+      "lastUpdated": "2026-06-01T14:10:00Z"
+    },
+    {
+      "id": "R007",
+      "name": "Indiranagar - CMH Road",
+      "coordinates": [
+        [12.9784, 77.6408],
+        [12.9752, 77.6428],
+        [12.9720, 77.6445]
+      ],
+      "congestionScore": 66,
+      "congestionLevel": "moderate",
+      "speed": 22,
+      "vehicleCount": 311,
+      "prediction": {
+        "next15min": 70,
+        "next30min": 63,
+        "next60min": 54
+      },
+      "signalRecommendation": "Reduce cycle time on CMH Road by 20%",
+      "alternateRoute": "Old Airport Road via Domlur",
+      "incidents": [],
+      "lastUpdated": "2026-06-01T14:10:00Z"
+    },
+    {
+      "id": "R008",
+      "name": "Bannerghatta Road - JP Nagar",
+      "coordinates": [
+        [12.9026, 77.5906],
+        [12.8998, 77.5938],
+        [12.8970, 77.5969]
+      ],
+      "congestionScore": 79,
+      "congestionLevel": "high",
+      "speed": 15,
+      "vehicleCount": 440,
+      "prediction": {
+        "next15min": 82,
+        "next30min": 75,
+        "next60min": 60
+      },
+      "signalRecommendation": "Deploy traffic personnel at Gottigere junction",
+      "alternateRoute": "NICE Road via Bannerghatta via Kanakapura Road",
+      "incidents": ["School zone congestion near National Games Village"],
+      "lastUpdated": "2026-06-01T14:10:00Z"
+    },
+    {
+      "id": "R009",
+      "name": "Electronic City - Hosur Road",
+      "coordinates": [
+        [12.8456, 77.6603],
+        [12.8489, 77.6634],
+        [12.8520, 77.6660]
+      ],
+      "congestionScore": 18,
+      "congestionLevel": "low",
+      "speed": 62,
+      "vehicleCount": 72,
+      "prediction": {
+        "next15min": 20,
+        "next30min": 22,
+        "next60min": 28
+      },
+      "signalRecommendation": "No action needed, optimal flow",
+      "alternateRoute": "Sarjapur Road via Hosa Road",
+      "incidents": [],
+      "lastUpdated": "2026-06-01T14:10:00Z"
+    },
+    {
+      "id": "R010",
+      "name": "Mysuru Road - Kengeri",
+      "coordinates": [
+        [12.9042, 77.5116],
+        [12.9010, 77.5082],
+        [12.8980, 77.5050]
+      ],
+      "congestionScore": 38,
+      "congestionLevel": "moderate",
+      "speed": 40,
+      "vehicleCount": 155,
+      "prediction": {
+        "next15min": 42,
+        "next30min": 38,
+        "next60min": 30
+      },
+      "signalRecommendation": "Coordinate signals on Mysuru Road corridor",
+      "alternateRoute": "NICE Road West via Rajarajeshwari Nagar",
+      "incidents": [],
+      "lastUpdated": "2026-06-01T14:10:00Z"
+    },
+    {
+      "id": "R011",
+      "name": "Sahakara Nagar - Thanisandra",
+      "coordinates": [
+        [13.0580, 77.5980],
+        [13.0610, 77.6010],
+        [13.0640, 77.6042]
+      ],
+      "congestionScore": 14,
+      "congestionLevel": "low",
+      "speed": 68,
+      "vehicleCount": 55,
+      "prediction": {
+        "next15min": 16,
+        "next30min": 20,
+        "next60min": 25
+      },
+      "signalRecommendation": "Maintain current timing, no changes needed",
+      "alternateRoute": "Hennur Road via Kalyan Nagar",
+      "incidents": [],
+      "lastUpdated": "2026-06-01T14:10:00Z"
+    },
+    {
+      "id": "R012",
+      "name": "Rajajinagar - Chord Road",
+      "coordinates": [
+        [12.9940, 77.5510],
+        [12.9965, 77.5545],
+        [12.9988, 77.5580]
+      ],
+      "congestionScore": 53,
+      "congestionLevel": "moderate",
+      "speed": 31,
+      "vehicleCount": 234,
+      "prediction": {
+        "next15min": 57,
+        "next30min": 51,
+        "next60min": 44
+      },
+      "signalRecommendation": "Synchronize Chord Road signals for green wave",
+      "alternateRoute": "Nagarbhavi Circle via BEL Road",
+      "incidents": [],
+      "lastUpdated": "2026-06-01T14:10:00Z"
+    },
+    {
+      "id": "R013",
+      "name": "Yelahanka - Devanahalli Road",
+      "coordinates": [
+        [13.1010, 77.5965],
+        [13.1055, 77.5990],
+        [13.1100, 77.6015]
+      ],
+      "congestionScore": 11,
+      "congestionLevel": "low",
+      "speed": 75,
+      "vehicleCount": 42,
+      "prediction": {
+        "next15min": 13,
+        "next30min": 15,
+        "next60min": 18
+      },
+      "signalRecommendation": "No action required",
+      "alternateRoute": "Doddaballapura Road via Yelahanka Old Town",
+      "incidents": [],
+      "lastUpdated": "2026-06-01T14:10:00Z"
+    },
+    {
+      "id": "R014",
+      "name": "Jayanagar - South End Circle",
+      "coordinates": [
+        [12.9267, 77.5826],
+        [12.9240, 77.5855],
+        [12.9215, 77.5882]
+      ],
+      "congestionScore": 71,
+      "congestionLevel": "high",
+      "speed": 19,
+      "vehicleCount": 388,
+      "prediction": {
+        "next15min": 75,
+        "next30min": 67,
+        "next60min": 56
+      },
+      "signalRecommendation": "Increase green time on 11th Main Road by 30s",
+      "alternateRoute": "KR Road via Lalbagh West Gate",
+      "incidents": ["Market congestion near Jayanagar 4th Block"],
+      "lastUpdated": "2026-06-01T14:10:00Z"
+    },
+    {
+      "id": "R015",
+      "name": "Bellary Road - Mekhri Circle",
+      "coordinates": [
+        [13.0102, 77.5840],
+        [13.0130, 77.5870],
+        [13.0158, 77.5900]
+      ],
+      "congestionScore": 48,
+      "congestionLevel": "moderate",
+      "speed": 33,
+      "vehicleCount": 210,
+      "prediction": {
+        "next15min": 52,
+        "next30min": 46,
+        "next60min": 39
+      },
+      "signalRecommendation": "Standard operation, monitor Mekhri flyover merge",
+      "alternateRoute": "Sankey Road via Palace Grounds",
+      "incidents": [],
+      "lastUpdated": "2026-06-01T14:10:00Z"
+    }
+  ],
+  "systemStats": {
+    "totalRoads": 15,
+    "congestedRoads": 5,
+    "averageCongestion": 51.7,
+    "activeIncidents": 7,
+    "lastUpdated": "2026-06-01T14:10:00Z"
+  }
+}
