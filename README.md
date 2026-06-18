@@ -1,6 +1,6 @@
-# ASTRAEA AI
+# Smart-Traffic-Congestion-Prediction-System
 
-ASTRAEA AI is a smart traffic monitoring and signal optimization platform designed to help analyze traffic conditions and support proactive traffic management.
+Smart-Traffic-Congestion-Prediction-System is a smart traffic monitoring and signal optimization platform designed to help analyze traffic conditions and support proactive traffic management.
 
 The system monitors multiple intersections in real time, tracks congestion levels, vehicle speeds, and incidents, and provides AI-assisted recommendations for traffic signal adjustments. Its goal is to help traffic operators identify congestion patterns early and make informed decisions to improve traffic flow.
 
