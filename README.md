@@ -9,7 +9,7 @@ The system monitors multiple intersections in real time, tracks congestion level
 * Real-time traffic monitoring dashboard
 * Congestion scoring and analytics
 * Traffic speed and incident tracking
-* AI-assisted signal optimization recommendations
+* AI-assisted signal optimization and recomendations
 * Interactive map-based visualization
 * Human-in-the-loop decision support
 
